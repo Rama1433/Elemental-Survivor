@@ -1,0 +1,242 @@
+{
+  "hero_royal_0": [
+    5,
+    5,
+    48,
+    60
+  ],
+  "hero_royal_1": [
+    73,
+    5,
+    48,
+    60
+  ],
+  "hero_scarlet_0": [
+    141,
+    5,
+    48,
+    60
+  ],
+  "hero_scarlet_1": [
+    209,
+    5,
+    48,
+    60
+  ],
+  "hero_glacial_0": [
+    277,
+    5,
+    48,
+    60
+  ],
+  "hero_glacial_1": [
+    345,
+    5,
+    48,
+    60
+  ],
+  "hero_storm_0": [
+    413,
+    5,
+    48,
+    60
+  ],
+  "hero_storm_1": [
+    5,
+    115,
+    48,
+    60
+  ],
+  "enemy_skeleton": [
+    73,
+    115,
+    48,
+    60
+  ],
+  "enemy_shield": [
+    141,
+    115,
+    48,
+    60
+  ],
+  "enemy_goblin": [
+    209,
+    115,
+    48,
+    60
+  ],
+  "enemy_wolf": [
+    277,
+    115,
+    48,
+    60
+  ],
+  "enemy_orc": [
+    345,
+    115,
+    48,
+    60
+  ],
+  "enemy_mage": [
+    413,
+    115,
+    48,
+    60
+  ],
+  "enemy_bat": [
+    5,
+    225,
+    48,
+    60
+  ],
+  "enemy_ghost": [
+    73,
+    225,
+    48,
+    60
+  ],
+  "enemy_spider": [
+    141,
+    225,
+    48,
+    60
+  ],
+  "enemy_shaman": [
+    209,
+    225,
+    48,
+    60
+  ],
+  "enemy_archer": [
+    277,
+    225,
+    48,
+    60
+  ],
+  "enemy_knight": [
+    345,
+    225,
+    48,
+    60
+  ],
+  "enemy_champion": [
+    413,
+    225,
+    48,
+    60
+  ],
+  "enemy_iceWisp": [
+    5,
+    335,
+    48,
+    60
+  ],
+  "enemy_frostGolem": [
+    73,
+    335,
+    48,
+    60
+  ],
+  "enemy_emberling": [
+    141,
+    335,
+    48,
+    60
+  ],
+  "enemy_stormWisp": [
+    209,
+    335,
+    48,
+    60
+  ],
+  "boss_0": [
+    277,
+    335,
+    80,
+    96
+  ],
+  "boss_1": [
+    345,
+    335,
+    80,
+    96
+  ],
+  "boss_2": [
+    413,
+    335,
+    80,
+    96
+  ],
+  "boss_3": [
+    5,
+    445,
+    80,
+    96
+  ],
+  "enemy_thornling": [
+    73,
+    445,
+    48,
+    60
+  ],
+  "enemy_cryptHound": [
+    141,
+    445,
+    48,
+    60
+  ],
+  "enemy_mirrorShade": [
+    209,
+    445,
+    48,
+    60
+  ],
+  "enemy_ashCrawler": [
+    277,
+    445,
+    48,
+    60
+  ],
+  "enemy_sparkWraith": [
+    345,
+    445,
+    48,
+    60
+  ],
+  "enemy_voidling": [
+    413,
+    445,
+    48,
+    60
+  ],
+  "enemy_entGuardian": [
+    5,
+    555,
+    48,
+    60
+  ],
+  "enemy_iceRevenant": [
+    73,
+    555,
+    48,
+    60
+  ],
+  "enemy_cinderKnight": [
+    141,
+    555,
+    48,
+    60
+  ],
+  "enemy_thunderBeast": [
+    209,
+    555,
+    48,
+    60
+  ],
+  "boss_darkness": [
+    277,
+    555,
+    80,
+    96
+  ]
+}
